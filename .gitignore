@@ -1,0 +1,4 @@
+# Project exclude paths
+/maven-web/target/
+/music-dao/target/
+/music-service/target/
